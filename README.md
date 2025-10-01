@@ -3,6 +3,8 @@
 A React-based online book shop application where users can browse books, view discounts, featured items, new releases, and manage accounts.
 
 <img width="1363" height="630" alt="image" src="https://github.com/user-attachments/assets/a7c0f2b1-73a9-4e81-aa9e-3d8759fb035e" />
+<img width="1356" height="628" alt="image" src="https://github.com/user-attachments/assets/e8a794e4-9bce-4939-af76-985b5a7bd1e7" />
+
 
 
 ## Features
